@@ -1,0 +1,10 @@
+[package]
+name = "randbash"
+version = "0.0.0"
+authors = ["brogowski <bartlomiej.rogowski@degustudios.com>"]
+
+[dependencies]
+hyper = "0.11.6"
+select = "0.4.2"
+futures = "0.1"
+tokio-core = "0.1"
